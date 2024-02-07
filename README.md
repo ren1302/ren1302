@@ -6,7 +6,7 @@
 
 🚀 오픈 소스 프로젝트에 기여하고 개발자 커뮤니티와 협업하는 것을 즐깁니다.
 
-📫 [ren@example.com](mailto:ren@example.com)에서 연락하실 수 있습니다.
+📫 [rensyu1302@naver.com](mailto:ren@example.com)에서 연락하실 수 있습니다.
 
 ## 기술 스택
 
