@@ -10,7 +10,7 @@
 
 ## 기술 스택
 
-- 💻 언어: JavaScript, Python
+- 💻 언어: Java, JavaScript, Python
 - 🌐 웹 기술: React, Node.js, Django
 - 🛢️ 데이터베이스: MongoDB, PostgreSQL
 - 🚀 프레임워크: Express.js, Flask
@@ -22,8 +22,6 @@
 
 ## 연결해요
 
-- [LinkedIn](https://www.linkedin.com/in/ren-example/)
 - [Twitter](https://twitter.com/ren_example)
-- [포트폴리오](https://ren-portfolio.example.com/)
 
 저의 레포지토리를 살펴보고 언제든지 연락해주세요! 😊
