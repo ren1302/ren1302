@@ -20,8 +20,4 @@
 
 [![Ren의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ren1302&show_icons=true&theme=radical)](https://github.com/ren1302)
 
-## 연결해요
-
-- [Twitter](https://twitter.com/ren_example)
-
 저의 레포지토리를 살펴보고 언제든지 연락해주세요! 😊
